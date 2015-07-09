@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HomePageTest]">
+  <parameter name="userName" value="vgjoze01"/>
+  <parameter name="password" value="V!d@n1234"/>
+  <test name="testHomePage(failed)">
+    <parameter name="userName" value="vgjoze01"/>
+    <parameter name="password" value="V!d@n1234"/>
+    <classes>
+      <class name="tests.HomePageTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="testHomePage"/>
+        </methods>
+      </class> <!-- tests.HomePageTest -->
+    </classes>
+  </test> <!-- testHomePage(failed) -->
+</suite> <!-- Failed suite [HomePageTest] -->

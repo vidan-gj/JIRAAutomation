@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test1]">
+  <test name="Jenkins Home Page(failed)">
+    <classes>
+      <class name="tests.HomePageTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="testUserSCRM"/>
+        </methods>
+      </class> <!-- tests.HomePageTest -->
+    </classes>
+  </test> <!-- Jenkins Home Page(failed) -->
+</suite> <!-- Failed suite [Test1] -->

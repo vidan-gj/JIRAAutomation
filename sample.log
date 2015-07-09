@@ -1,0 +1,130 @@
+2929 [main] INFO  unit.UserLoginTest  - Open the Home Page
+3584 [main] INFO  unit.UserLoginTest  - User Login Successful
+8612 [main] INFO  unit.UserLoginTest  - User Logout Successful
+625  [main] INFO  unit.UserLoginTest  - ---------------------------- TEST START ------------------------------------
+625  [main] INFO  unit.UserLoginTest  - ***************************** testUserLogin ********************************
+625  [main] INFO  unit.UserLoginTest  - ----------------------------- TEST END -------------------------------------
+2731 [main] INFO  unit.UserLoginTest  - Open the Home Page
+4076 [main] INFO  unit.UserLoginTest  - User Login Successful
+9084 [main] INFO  unit.UserLoginTest  - User Logout Successful
+812  [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+812  [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+4062 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+6481 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+28636 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+59955 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+65623 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+69821 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+89371 [main] INFO  unit.TicketUpdateTest  - User Logout Successful
+89371 [main] INFO  unit.TicketUpdateTest  - ----------------------------- TEST END -------------------------------------
+8453 [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+8494 [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+17465 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+751  [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+761  [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+2834 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+723  [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+723  [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+2794 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+8934 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+55837 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+83231 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+88844 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+92994 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+566  [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+567  [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+2521 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+8673 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+20997 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+47507 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+53608 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+57821 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+81118 [main] INFO  unit.TicketUpdateTest  - User Logout Successful
+81128 [main] INFO  unit.TicketUpdateTest  - ----------------------------- TEST END -------------------------------------
+2632 [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+2680 [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+11015 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+17279 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+43008 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+72141 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+78144 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+82294 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+103168 [main] INFO  unit.TicketUpdateTest  - User Logout Successful
+103168 [main] INFO  unit.TicketUpdateTest  - ----------------------------- TEST END -------------------------------------
+812  [main] INFO  unit.CreateAgileSprintTest  - ---------------------------- TEST START ------------------------------------
+813  [main] INFO  unit.CreateAgileSprintTest  - ***************************** CreateAgileSprintTest ********************************
+518  [main] INFO  unit.ScheduleHealthQueryTest  - ---------------------------- TEST START ------------------------------------
+518  [main] INFO  unit.ScheduleHealthQueryTest  - ***************************** ScheduleHealthQueryTest ********************************
+44882 [main] INFO  unit.ScheduleHealthQueryTest  - ----------------------------- TEST END -------------------------------------
+3621 [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+3621 [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+19990 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+26494 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+107916 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+134568 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+142740 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+146899 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+158196 [main] INFO  unit.TicketUpdateTest  - ----------------------------- TEST END -------------------------------------
+3479 [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+3480 [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+10111 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+16149 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+77016 [main] INFO  unit.TicketUpdateTest  - A new ticket has been created: ERM-1561
+95846 [main] INFO  unit.TicketUpdateTest  - Assigne field has been changed
+97379 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+131227 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+136811 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+140986 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+152027 [main] INFO  unit.TicketUpdateTest  - ----------------------------- TEST END -------------------------------------
+4970 [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+4970 [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+8773 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+14947 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+74653 [main] INFO  unit.TicketUpdateTest  - A new ticket has been created: ERM-1562
+93575 [main] INFO  unit.TicketUpdateTest  - Assigne field has been changed
+95028 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+114917 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+121325 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+125553 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+136671 [main] INFO  unit.TicketUpdateTest  - ----------------------------- TEST END -------------------------------------
+16315 [main] INFO  unit.UserLoginTest  - ---------------------------- TEST START ------------------------------------
+16347 [main] INFO  unit.UserLoginTest  - ***************************** UserLoginTest ********************************
+20665 [main] INFO  unit.UserLoginTest  - Open the Home Page
+27507 [main] INFO  unit.UserLoginTest  - User Login Successful
+35987 [main] INFO  unit.UserLoginTest  - User Logout Successful
+35987 [main] INFO  unit.UserLoginTest  - ----------------------------- TEST END -------------------------------------
+3207 [main] INFO  unit.ScheduleHealthQueryTest  - ---------------------------- TEST START ------------------------------------
+3207 [main] INFO  unit.ScheduleHealthQueryTest  - ***************************** ScheduleHealthQueryTest ********************************
+88719 [main] INFO  unit.ScheduleHealthQueryTest  - ----------------------------- TEST END -------------------------------------
+2591 [main] INFO  unit.UserLoginTest  - ---------------------------- TEST START ------------------------------------
+2607 [main] INFO  unit.UserLoginTest  - ***************************** UserLoginTest ********************************
+4655 [main] INFO  unit.UserLoginTest  - Open the Home Page
+11507 [main] INFO  unit.UserLoginTest  - User Login Successful
+18891 [main] INFO  unit.UserLoginTest  - User Logout Successful
+18891 [main] INFO  unit.UserLoginTest  - ----------------------------- TEST END -------------------------------------
+23802 [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+23802 [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+25769 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+37661 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+2591 [main] INFO  unit.TicketUpdateTest  - ---------------------------- TEST START ------------------------------------
+2591 [main] INFO  unit.TicketUpdateTest  - ***************************** TicketUpdateTest ********************************
+4636 [main] INFO  unit.TicketUpdateTest  - Open the Home Page
+16556 [main] INFO  unit.TicketUpdateTest  - User Login Successful
+89701 [main] INFO  unit.TicketUpdateTest  - A new ticket has been created: ERM-1565
+110691 [main] INFO  unit.TicketUpdateTest  - Assigne field has been changed
+112234 [main] INFO  unit.TicketUpdateTest  - Ticket is assigned to another user
+137472 [main] INFO  unit.TicketUpdateTest  - Release Type has been changed
+143327 [main] INFO  unit.TicketUpdateTest  - A comment has been added
+147510 [main] INFO  unit.TicketUpdateTest  - History Tab reflects most recent changes
+159285 [main] INFO  unit.TicketUpdateTest  - ----------------------------- TEST END -------------------------------------
+54328 [main] INFO  unit.UserAccessReportTest  - vgjoze01
+60232 [main] INFO  unit.UserAccessReportTest  - vgjoze01
+53287 [main] INFO  unit.UserAccessReportTest  - kmahal01
+78063 [main] INFO  unit.UserAccessReportTest  - kmahal01
+3562 [main] INFO  unit.CreateAgileSprintTest  - ---------------------------- TEST START ------------------------------------
+3562 [main] INFO  unit.CreateAgileSprintTest  - ***************************** CreateAgileSprintTest ********************************
+4086 [main] INFO  unit.CreateAgileSprintTest  - ---------------------------- TEST START ------------------------------------
+4086 [main] INFO  unit.CreateAgileSprintTest  - ***************************** CreateAgileSprintTest ********************************
+3571 [main] INFO  unit.ScheduleHealthQueryTest  - ---------------------------- TEST START ------------------------------------
+3571 [main] INFO  unit.ScheduleHealthQueryTest  - ***************************** ScheduleHealthQueryTest ********************************
+116794 [main] INFO  unit.ScheduleHealthQueryTest  - ----------------------------- TEST END -------------------------------------

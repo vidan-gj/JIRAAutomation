@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SmokeTests" >
+	<test name="testUserLogin" >
+		<parameter name="userName" value="vgjoze01"/>
+		<parameter name="password" value=""/>
+		<classes>
+			<class name="unit.UserLoginTest" />
+		</classes>
+	</test>
+</suite>

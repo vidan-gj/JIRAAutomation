@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FunctionalTests]">
+  <parameter name="userName" value="vgjoze01"/>
+  <parameter name="password" value="V!d@n12345"/>
+  <test name="testLicense_ExpyDate(failed)">
+    <parameter name="userName" value="vgjoze01"/>
+    <parameter name="password" value="V!d@n12345"/>
+    <classes>
+      <class name="tests.FunctionalTests">
+        <methods>
+          <include name="testLicense_ExpyDate" invocation-numbers="0"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- tests.FunctionalTests -->
+    </classes>
+  </test> <!-- testLicense_ExpyDate(failed) -->
+</suite> <!-- Failed suite [FunctionalTests] -->
